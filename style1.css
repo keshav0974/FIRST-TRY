@@ -1,0 +1,33 @@
+div{
+    height: 60px;
+    background-color: #0f1111;
+    border: 5px solid rgba(255, 255, 255, 0.364);
+    text-size-adjust: 25px;
+    
+ 
+  
+}
+div1{
+    /* padding-right: 200px; */
+    color: #f08804;
+    margin-right: 200px;
+}
+div2{
+    /* padding-right: 200px; */
+    color: white;
+}
+div3{
+    /* padding-right: 200px; */
+    color: white;
+}
+div4{
+    /* margin-right: 200px; */
+    color: white;
+}
+
+button{
+    background-color: #f08804;
+}
+a{
+    margin-right: 200px;
+}

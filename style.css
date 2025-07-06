@@ -1,0 +1,38 @@
+  div {
+    height: 350px;
+    width: 300px;
+    background-color: grey;
+    border: 2px solid black ;
+    text-align: center;
+
+   
+  }
+  P1{
+    height: 100px;
+    width: 100px;
+    margin-right: 500px;
+    margin-bottom: 100px;
+    background-color: red;
+    padding: 100px;
+    border: 2px  dotted black;
+    border-radius: 50%;    
+  }
+  P2{
+    height: 100px;
+    width: 100px;
+    padding: 100px;
+    margin-top: 50px;
+    border: 2px  solid black;
+    border-radius: 50%;
+    background-color: yellow;
+    
+  }
+  P3{
+    height: 100px;
+    width: 100px;
+    padding: 100px;
+    margin: 50px;
+    border: 2px  dotted black;
+    border-radius: 50%;
+    background-color: green;
+  }
